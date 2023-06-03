@@ -1,2 +1,2 @@
 # Wallpapers
-this contains all the wallpaper i found and liked 
+this contains all the wallpaper I found and liked 
