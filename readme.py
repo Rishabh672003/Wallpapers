@@ -1,20 +1,3 @@
-# import os
-#
-# # Specify the directory containing the images
-# image_dir = "/home/rishabh/Pictures/Wallpapers/wallpapers/"
-#
-# # Get a list of all files in the directory
-# files = os.listdir(image_dir)
-#
-# # Filter the list to only include JPG, JPEG, and PNG files
-# image_files = [f for f in files if f.endswith((".jpg", ".jpeg", ".png"))]
-#
-# # Open the README file in append mode
-# with open("README.md", "a") as f:
-#     # Generate the Markdown syntax for each image and write it to the README file
-#     for image in image_files:
-#         f.write(f"![](./wallpapers/{image})\n---\n")
-
 import os
 
 # Specify the directory containing the images
